@@ -1,0 +1,134 @@
+.:
+total 16
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:58 .
+drwxr-xr-x 7 mpirun mpirun 4096 Oct 28 04:57 ..
+drwxrwxr-x 8 mpirun mpirun 4096 Oct 28 04:57 .git
+-rw-rw-r-- 1 mpirun mpirun    6 Oct 28 04:57 README.md
+-rw-rw-r-- 1 mpirun mpirun    0 Oct 28 04:58 archivo1.txt
+
+./.git:
+total 52
+drwxrwxr-x 8 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:58 ..
+-rw-rw-r-- 1 mpirun mpirun   21 Oct 28 04:57 HEAD
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 branches
+-rw-rw-r-- 1 mpirun mpirun  261 Oct 28 04:57 config
+-rw-rw-r-- 1 mpirun mpirun   73 Oct 28 04:57 description
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 hooks
+-rw-rw-r-- 1 mpirun mpirun  137 Oct 28 04:57 index
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 info
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:57 logs
+drwxrwxr-x 4 mpirun mpirun 4096 Oct 28 04:57 objects
+-rw-rw-r-- 1 mpirun mpirun  112 Oct 28 04:57 packed-refs
+drwxrwxr-x 5 mpirun mpirun 4096 Oct 28 04:57 refs
+
+./.git/branches:
+total 8
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 8 mpirun mpirun 4096 Oct 28 04:57 ..
+
+./.git/hooks:
+total 68
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 8 mpirun mpirun 4096 Oct 28 04:57 ..
+-rwxrwxr-x 1 mpirun mpirun  478 Oct 28 04:57 applypatch-msg.sample
+-rwxrwxr-x 1 mpirun mpirun  896 Oct 28 04:57 commit-msg.sample
+-rwxrwxr-x 1 mpirun mpirun 4655 Oct 28 04:57 fsmonitor-watchman.sample
+-rwxrwxr-x 1 mpirun mpirun  189 Oct 28 04:57 post-update.sample
+-rwxrwxr-x 1 mpirun mpirun  424 Oct 28 04:57 pre-applypatch.sample
+-rwxrwxr-x 1 mpirun mpirun 1643 Oct 28 04:57 pre-commit.sample
+-rwxrwxr-x 1 mpirun mpirun  416 Oct 28 04:57 pre-merge-commit.sample
+-rwxrwxr-x 1 mpirun mpirun 1374 Oct 28 04:57 pre-push.sample
+-rwxrwxr-x 1 mpirun mpirun 4898 Oct 28 04:57 pre-rebase.sample
+-rwxrwxr-x 1 mpirun mpirun  544 Oct 28 04:57 pre-receive.sample
+-rwxrwxr-x 1 mpirun mpirun 1492 Oct 28 04:57 prepare-commit-msg.sample
+-rwxrwxr-x 1 mpirun mpirun 2783 Oct 28 04:57 push-to-checkout.sample
+-rwxrwxr-x 1 mpirun mpirun 3650 Oct 28 04:57 update.sample
+
+./.git/info:
+total 12
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 8 mpirun mpirun 4096 Oct 28 04:57 ..
+-rw-rw-r-- 1 mpirun mpirun  240 Oct 28 04:57 exclude
+
+./.git/logs:
+total 16
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 8 mpirun mpirun 4096 Oct 28 04:57 ..
+-rw-rw-r-- 1 mpirun mpirun  188 Oct 28 04:57 HEAD
+drwxrwxr-x 4 mpirun mpirun 4096 Oct 28 04:57 refs
+
+./.git/logs/refs:
+total 16
+drwxrwxr-x 4 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:57 ..
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 heads
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:57 remotes
+
+./.git/logs/refs/heads:
+total 12
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 4 mpirun mpirun 4096 Oct 28 04:57 ..
+-rw-rw-r-- 1 mpirun mpirun  188 Oct 28 04:57 main
+
+./.git/logs/refs/remotes:
+total 12
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 4 mpirun mpirun 4096 Oct 28 04:57 ..
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 origin
+
+./.git/logs/refs/remotes/origin:
+total 12
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:57 ..
+-rw-rw-r-- 1 mpirun mpirun  188 Oct 28 04:57 HEAD
+
+./.git/objects:
+total 16
+drwxrwxr-x 4 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 8 mpirun mpirun 4096 Oct 28 04:57 ..
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 info
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 pack
+
+./.git/objects/info:
+total 8
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 4 mpirun mpirun 4096 Oct 28 04:57 ..
+
+./.git/objects/pack:
+total 16
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 4 mpirun mpirun 4096 Oct 28 04:57 ..
+-r--r--r-- 1 mpirun mpirun 1156 Oct 28 04:57 pack-457e036da70e421d398746926b2b5dbbae35509c.idx
+-r--r--r-- 1 mpirun mpirun  892 Oct 28 04:57 pack-457e036da70e421d398746926b2b5dbbae35509c.pack
+
+./.git/refs:
+total 20
+drwxrwxr-x 5 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 8 mpirun mpirun 4096 Oct 28 04:57 ..
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 heads
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:57 remotes
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 tags
+
+./.git/refs/heads:
+total 12
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 5 mpirun mpirun 4096 Oct 28 04:57 ..
+-rw-rw-r-- 1 mpirun mpirun   41 Oct 28 04:57 main
+
+./.git/refs/remotes:
+total 12
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 5 mpirun mpirun 4096 Oct 28 04:57 ..
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 origin
+
+./.git/refs/remotes/origin:
+total 12
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 3 mpirun mpirun 4096 Oct 28 04:57 ..
+-rw-rw-r-- 1 mpirun mpirun   30 Oct 28 04:57 HEAD
+
+./.git/refs/tags:
+total 8
+drwxrwxr-x 2 mpirun mpirun 4096 Oct 28 04:57 .
+drwxrwxr-x 5 mpirun mpirun 4096 Oct 28 04:57 ..
